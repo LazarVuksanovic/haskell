@@ -1,0 +1,1 @@
+Queue [1,2,3], pop, push 4
